@@ -11,5 +11,5 @@
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
-<a href="https://api.whatsapp.com/send?phone=+573015723929&text=Hola%20Janet,%20acabo%20de%20ver%20tu%20perfil%20de%20Github" target="blank"> alt="IR A WHATSAPP"/></a>
+<a href="https://api.whatsapp.com/send?phone=+573015723929&text=Hola%20Janet,%20acabo%20de%20ver%20tu%20perfil%20de%20Github" target="blank"> IR A WHATSAPP </a>
 </p>
