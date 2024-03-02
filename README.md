@@ -69,7 +69,7 @@ Durante mi formación académica he participado activamente en proyectos estudia
 Soy una entusiasta del senderismo y actividades al aire libre, disfruto entrenar zumba y cantar karaoke a todo pulmón. Cuando no estoy sumergida en líneas de código, me encontrarás inmersa en un buen libro o compartiendo ricas comidas y momentos especiales con mi familia y amigos. <br><br><br>
 
 
-## Conectemos:
+## Conectemos: <a href="https://api.whatsapp.com/send?phone=+573015723929&text=Hola%20Janet,%20vengo%20de%20tu%20perfil%20de%20GITHUB" target="_blank" rel="noopener noreferrer"><img src="https://github.com/janetmu/resume/assets/110951352/950e567c-b87e-4650-8f4d-fb230ca3a11f" alt="WhatsApp"></a> 
 
 <p>
 :telephone_receiver: <a href="tel:+573193990912">+573193990912</a> <br>
