@@ -72,7 +72,10 @@ Soy una entusiasta del senderismo y actividades al aire libre, disfruto entrenar
 ## Conectemos:
 
 <p>
-:telephone_receiver: <a href="tel:+573193990912">+573193990912</a> <br>  
+:telephone_receiver: <a href="tel:+573193990912">+573193990912</a> <br>
+
+<a href="tel:+573193990912">+573193990912</a>
+
 :e-mail: <a href="mailto:janetmaru.jm@gmail.com">janetmaru.jm@gmail.com</a>  
   
 <a href="https://linkedin.com/in/janet-marulanda-usma-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janet-marulanda-usma-dev" height="30" width="40" /></a>
